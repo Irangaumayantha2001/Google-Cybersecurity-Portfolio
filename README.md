@@ -6,8 +6,11 @@ Welcome to my GitHub portfolio highlighting my projects and learning from the **
 
 ## 👋 About Me
 
-I’m an aspiring cybersecurity professional currently completing the **Google Cybersecurity Professional Certificate**.  
-I’m building practical skills in security fundamentals, incident response, threat detection, and defensive techniques.
+I am a motivated cybersecurity professional with a strong technical foundation in computer systems and networking. Through self-learning and hands-on practice with tools such as Kali Linux, Nmap, and Burp Suite, I have developed practical skills in vulnerability assessment and penetration testing.
+
+My core values include integrity, continuous improvement, and responsibility, which guide my approach to ethical security practices. I am highly interested in identifying system weaknesses and helping organizations strengthen their defenses against cyber threats.
+
+By combining my technical strengths, disciplined work ethic, and commitment to learning, I aim to support organizations in protecting their digital assets, maintaining business continuity, and building customer trust.
 
 
 
